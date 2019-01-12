@@ -1,4 +1,4 @@
-# Setting up AWS IoT Core to work as message broker and rule engine for you MQTT project with Python and AWS CLI.
+# Setting up AWS IoT Core to work with your MQTT project with Python and AWS CLI.
 
 Check out more on AWS IoT here https://aws.amazon.com/iot-core/.
 
